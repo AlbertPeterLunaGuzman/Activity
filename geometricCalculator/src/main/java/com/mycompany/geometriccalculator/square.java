@@ -1,5 +1,4 @@
 package com.mycompany.geometriccalculator;
-
 public class square implements GeometricShape {
     double side;
     public square(double side) { this.side = side; }
